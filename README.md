@@ -1,1 +1,1 @@
-loop-lambda-benchmark
+Simple JMH Benchmark Project
